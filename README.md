@@ -5,6 +5,7 @@
 ![API](https://img.shields.io/badge/API-Nutritions-fcba03)
 
 [Live project link](https://neuroassistant.herokuapp.com/) <br />
+[Video Demo](https://drive.google.com/file/d/1fZfbuYnKaoDXsNpt60gOI2fhAb-pLrV9/view?usp=sharing) <br />
 [Report](https://github.com/mayanksamadhiya12345/Nutro-Assistant/blob/main/19MIM10077_InternshipReport.docx)<br />
 [PPT](https://github.com/mayanksamadhiya12345/Nutro-Assistant/blob/main/NutriAssistant.pptx)
 
