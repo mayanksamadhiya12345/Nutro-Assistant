@@ -4,6 +4,8 @@
 ![Framework](https://img.shields.io/badge/Framework-JavaSpringBoot-red)
 ![API](https://img.shields.io/badge/API-Nutritions-fcba03)
 
+[Live project link](https://neuroassistant.herokuapp.com/) <br />
+
 #### Built this project using <strong >Java Spring Boot</strong>
 
 Wellness and healthy lifestyles have become mainstream. Interest in fitness applications and revenue from them grow as fast as the number of people striving to be fit.
