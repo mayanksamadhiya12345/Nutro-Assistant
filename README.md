@@ -5,6 +5,8 @@
 ![API](https://img.shields.io/badge/API-Nutritions-fcba03)
 
 [Live project link](https://neuroassistant.herokuapp.com/) <br />
+[Report](https://github.com/mayanksamadhiya12345/Nutro-Assistant/blob/main/19MIM10077_InternshipReport.docx)<br />
+[PPT](https://github.com/mayanksamadhiya12345/Nutro-Assistant/blob/main/NutriAssistant.pptx)
 
 #### Built this project using <strong >Java Spring Boot</strong>
 
